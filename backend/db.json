@@ -1,0 +1,20 @@
+{
+  "pessoas": [
+    {
+      "id": 1,
+      "nome": "Diego Pombo de Freitas",
+      "dtnascimento": "2020-09-01",
+      "estadocivil": "1",
+      "nomeparceiro": "Rafaele S. Fonseca",
+      "dtnascimentoparceiro": "2020-09-01"
+    },
+    {
+      "nome": "Rafaele Salgado",
+      "dtnascimento": "1996-08-04",
+      "estadocivil": "2",
+      "nomeparceiro": "",
+      "dtnascimentoparceiro": "",
+      "id": 2
+    }
+  ]
+}
